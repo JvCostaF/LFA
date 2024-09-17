@@ -1,6 +1,6 @@
 Primeiro Trabalho - Linguagens Formais
 
-Alunos: João Victor da Costa Farias (120014876) e Ricardo Ramalho de Lima Junior (120162116)
+Alunos: João Victor da Costa Farias e Ricardo Ramalho de Lima Junior.
 
 Como rodar o programa:
 
