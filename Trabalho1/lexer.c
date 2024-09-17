@@ -1,6 +1,6 @@
 /*
-Joao Victor da Costa Farias - 120014876
-Ricardo Ramalho De Lima Junior - 120162116
+Joao Victor da Costa Farias
+Ricardo Ramalho De Lima Junior
 */
 
 #include <stdio.h>
